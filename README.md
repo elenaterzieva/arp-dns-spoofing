@@ -1,4 +1,4 @@
-# ARP & DNS Spoofing Tool — Group 28 (2IC80)
+# ARP & DNS Spoofing Tool
 
 A Python-based network attack tool built for the 2IC80 course. It performs ARP spoofing and DNS poisoning on a local network using [Scapy](https://scapy.net/).
 
